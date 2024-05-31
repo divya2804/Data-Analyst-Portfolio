@@ -20,6 +20,8 @@ I am a data enthusiast with a strong background in data analysis, machine learni
 
 **Results:** Identified review counts and ratings as the most influential factors in a book's success. Certain genres also showed significant correlations with popularity, while awards and author reputation had limited impact.
 
+**Code:** 
+
 ### Unicorn Companies Visualization
 
 **Goal:** Visualize and analyze trends among Unicorn companies to understand factors contributing to their success.
@@ -31,6 +33,8 @@ I am a data enthusiast with a strong background in data analysis, machine learni
 **Technology:** Tableau, data preprocessing techniques.
 
 **Results:** Unveiled trends such as dominant industries among Unicorn companies, geographic clusters of high-valuations and trends in growth of unicorn companies.
+
+**Tableau:**
 
 <img width="799" alt="Screenshot 2024-05-31 102558" src="https://github.com/divya2804/Data-Analyst-Portfolio/assets/71580050/f3083d2c-9527-40c5-9137-9e76758671b6">
 
