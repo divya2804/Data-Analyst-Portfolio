@@ -4,8 +4,8 @@ Welcome to my portfolio! Here you'll find a collection of my projects showcasing
 ## About Me
 I am a data enthusiast with a strong background in data analysis, machine learning, and data visualization. I have a passion for transforming data into actionable insights and creating impactful visualizations. My goal is to leverage my analytical skills to solve real-world problems and drive data-driven decision-making. Beyond data analysis, I enjoy diving into various interests that enrich my life and work. Whether it's exploring new technologies, diving into the latest data science research, or simply getting lost in a good book, I'm always eager to learn and grow.
 
-## Skills: Python, SQL, R,Power BI, Tableau, Data Cleaning, Statistical Analysis, Machine Learning
-## Education: B.Tech(Information Technology), MIT ADT University
+**Skills:** Python, SQL, R,Power BI, Tableau, Data Cleaning, Statistical Analysis, Machine Learning
+**Education:** B.Tech(Information Technology), MIT ADT University
 
 ## Projects
 ### Goodreads Recommendation System
