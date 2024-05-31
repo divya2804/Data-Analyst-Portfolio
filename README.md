@@ -44,5 +44,5 @@ Feel free to reach out if you have any questions or suggestions!
 ### Email: divyapandey2804@gmail.com
 
 ### LinkedIn: www.linkedin.com/in/divya-pandey-1023aa206
-### CV: My CV
+### CV: [My CV](https://github.com/divya2804/Data-Analyst-Portfolio/blob/main/Divya%20Pandey%20CV.pdf)
 Thank you for visiting my portfolio!
