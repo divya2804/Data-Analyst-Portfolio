@@ -34,7 +34,7 @@ I am a data enthusiast with a strong background in data analysis, machine learni
 
 **Results:** Unveiled trends such as dominant industries among Unicorn companies, geographic clusters of high-valuations and trends in growth of unicorn companies.
 
-**Tableau:**
+**Tableau:** [Go to Tableau...](https://public.tableau.com/app/profile/divya.pandey2770/viz/UnicornCompanies_17171310535160/Dashboard1?publish=yes)
 
 <img width="799" alt="Screenshot 2024-05-31 102558" src="https://github.com/divya2804/Data-Analyst-Portfolio/assets/71580050/f3083d2c-9527-40c5-9137-9e76758671b6">
 
